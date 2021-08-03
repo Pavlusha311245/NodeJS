@@ -1,5 +1,3 @@
 .idea
 .DS_Store
-template/.env
-template/database/config.js
 template/node_modules
