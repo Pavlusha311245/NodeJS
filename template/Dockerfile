@@ -13,6 +13,6 @@ ENV PATH /opt/node_modules/.bin:$PATH
 WORKDIR /opt/app
 COPY . /opt/app
 
-CMD sh -c 'npx sequelize-cli db:migrate && nodemon index.js'
+CMD sh -c 'nodemon index.js'
 
 EXPOSE 3000
