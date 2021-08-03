@@ -4,7 +4,7 @@
 
 ### 1. Clone repository
 ```shell script
-git clone https://github.com/m44g11c/node-ticket-service
+git clone https://github.com/Pavlusha311245/NodeJS
 ```
 ### 2. Open folder
 ```shell script
