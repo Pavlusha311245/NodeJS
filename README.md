@@ -1,4 +1,4 @@
-# Ticket API With Node, Express and MySql (using Sequelize)
+# NodeJS template
 
 ## Getting start
 
