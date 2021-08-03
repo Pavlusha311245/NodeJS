@@ -8,7 +8,7 @@ git clone https://github.com/Pavlusha311245/NodeJS
 ```
 ### 2. Open folder
 ```shell script
-cd node-ticket-service
+cd nodejs
 ```
 ### 3. Rename or copy files .env.example and config.example.js to .env and config.js (template folder)
 ```shell script
